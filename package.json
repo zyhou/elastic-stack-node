@@ -1,0 +1,14 @@
+{
+  "name": "stack-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:elastic/stack-docker.git",
+  "author": "zyhou <richard.maxime9@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "~3.6.6",
+    "elastic-apm-node": "~1.1.1",
+    "express": "~4.16.2",
+    "winston": "~3.0.0-rc1"
+  }
+}
