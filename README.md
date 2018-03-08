@@ -16,7 +16,7 @@ Log in with `elastic` / `changeme`.
 
 ## Node
 
-At the moment you can launch `node src/index.js` and see the APM data in Kibana.
+At the moment you can launch `node src/index.js` [`http://localhost:3000`](http://localhost:3000) and see the APM data in Kibana.
 
 ## Todo list
 
